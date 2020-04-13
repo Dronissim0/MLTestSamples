@@ -1,0 +1,26 @@
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\bin\Debug\Sample File Writing.exe
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\bin\Debug\Sample File Writing.pdb
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\bin\Debug\Interop.MFORMATSLib.dll
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\Interop.MFORMATSLib.dll
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\Sample File Writing.csproj.ResolveComReference.cache
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\SampleFileWriting.Form1.resources
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\SampleFileWriting.FormAttributes.resources
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\SampleFileWriting.ListViewEx.resources
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\SampleFileWriting.Properties.Resources.resources
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\Sample File Writing.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\Sample File Writing.exe
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\Sample File Writing.pdb
+C:\Program Files (x86)\Medialooks\MFormats SDK\Samples\C#\Sample File Writing\obj\Debug\Sample File Writing.csprojResolveAssemblyReference.cache
+E:\Git samples\TestSamples\Audio Drops test\bin\Debug\Sample File Writing.exe
+E:\Git samples\TestSamples\Audio Drops test\bin\Debug\Sample File Writing.pdb
+E:\Git samples\TestSamples\Audio Drops test\bin\Debug\Interop.MFORMATSLib.dll
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.csprojResolveAssemblyReference.cache
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Interop.MFORMATSLib.dll
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.csproj.ResolveComReference.cache
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.Form1.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.FormAttributes.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.ListViewEx.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.Properties.Resources.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.csproj.GenerateResource.Cache
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.exe
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.pdb

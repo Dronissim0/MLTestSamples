@@ -1,0 +1,12 @@
+E:\Git samples\TestSamples\Audio Drops test\bin\Debug\Sample File Writing.exe
+E:\Git samples\TestSamples\Audio Drops test\bin\Debug\Sample File Writing.pdb
+E:\Git samples\TestSamples\Audio Drops test\bin\Debug\Interop.MFORMATSLib.dll
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Interop.MFORMATSLib.dll
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Two external audio (audio drop test).csproj.ResolveComReference.cache
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.Form1.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.FormAttributes.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.ListViewEx.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\SampleFileWriting.Properties.Resources.resources
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Two external audio (audio drop test).csproj.GenerateResource.Cache
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.exe
+E:\Git samples\TestSamples\Audio Drops test\obj\Debug\Sample File Writing.pdb

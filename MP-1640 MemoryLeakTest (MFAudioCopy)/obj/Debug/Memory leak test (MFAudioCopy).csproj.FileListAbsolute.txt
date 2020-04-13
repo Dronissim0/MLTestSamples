@@ -1,0 +1,13 @@
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\bin\Debug\Memory leak test (MFAudioCopy).exe
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\bin\Debug\Memory leak test (MFAudioCopy).pdb
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\bin\Debug\Interop.MFORMATSLib.dll
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\Interop.MFORMATSLib.dll
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\Memory leak test (MFAudioCopy).csproj.ResolveComReference.cache
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\SampleFileWriting.Form1.resources
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\SampleFileWriting.FormAttributes.resources
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\SampleFileWriting.ListViewEx.resources
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\SampleFileWriting.Properties.Resources.resources
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\Memory leak test (MFAudioCopy).csproj.GenerateResource.cache
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\Memory leak test (MFAudioCopy).csproj.CoreCompileInputs.cache
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\Memory leak test (MFAudioCopy).exe
+E:\Git samples\TestSamples\Sample File Writing MServer Memory leak MP-1640 with audio copy\obj\Debug\Memory leak test (MFAudioCopy).pdb
